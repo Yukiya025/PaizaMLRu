@@ -1,13 +1,20 @@
 # Thank you!
 [Paiza Learning](https://paiza.jp/works/mypage)
-The codes owes a lot to Paiza Learning. Thank you for sharing "Python * AI" video tutorial in Russian taste!
-** Люблю Россию! Урааа!**
+The codes owes a lot to Paiza Learning. Thank you for sharing "Python * AI" video tutorial in Russian taste!  
+![sveta](https://github.com/Yukiya025/PaizaMLRu/blob/master/readmeImages/0_Svetrana.png?raw=true)
+** Люблю Россию! Урааа!**  
 ![RuSouvenir](https://cdn140.picsart.com/275831187013201.jpg?c256x256)
 
 # Contents
-The AI distinguishes a girl called 'Kirishima', character in [paiza manga](https://paiza.jp/paijo).
-(The rate is 80%)
-
+The AI distinguishes a girl called 'Kirishima', character in [paiza manga](https://paiza.jp/paijo).  
+(The rate is 80%)  
+Paiza offers 000~099 images.  
+See the following images. They are sample.
+AI tries to judge whether the girl "Kirishima" is on a image or not.
+![Kirishima1](https://github.com/Yukiya025/PaizaMLRu/blob/master/readmeImages/000.jpg?raw=true)  
+![Not Kirishima1](https://github.com/Yukiya025/PaizaMLRu/blob/master/readmeImages/001.jpg?raw=true)  
+![Kirishima2](https://github.com/Yukiya025/PaizaMLRu/blob/master/readmeImages/002.jpg?raw=true)  
+![Not Kirishima2](https://github.com/Yukiya025/PaizaMLRu/blob/master/readmeImages/003.jpg?raw=true)  
 # My Environment
 - Python 3.5.6
 - Jupyter notebook
