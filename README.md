@@ -25,3 +25,5 @@ AI tries to judge whether the girl "Kirishima" is on a image or not.
 - [menpo/packages/opencv3 3.2.0](https://anaconda.org/menpo/opencv3)
 - [Python, OpenCVで画像ファイルの読み込み、保存（imread, imwrite）](https://note.nkmk.me/python-opencv-imread-imwrite/)
 - [NumPy 配列の基礎](http://www.kamishima.net/mlmpyja/nbayes1/ndarray.html#np.ndarray)
+- [ヒストグラム その1: 計算して，プロットして，解析する !!!](http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_imgproc/py_histograms/py_histogram_begins/py_histogram_begins.html)
+- [デジタル画像（カラー画像とグレースケール画像）](http://www.igunoss.co.jp/imageproc/imageproc1-2.html)
