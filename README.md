@@ -1,8 +1,8 @@
 # Thank you!
 [Paiza Learning](https://paiza.jp/works/mypage)
 The codes owes a lot to Paiza Learning. Thank you for sharing "Python * AI" video tutorial in Russian taste!  
-![sveta](https://github.com/Yukiya025/PaizaMLRu/blob/master/readmeImages/0_Svetrana.png?raw=true)
-** Люблю Россию! Урааа!**  
+![sveta](https://github.com/Yukiya025/PaizaMLRu/blob/master/readmeImages/0_Svetrana.png?raw=true)  
+**Люблю Россию! Урааа!**  
 ![RuSouvenir](https://cdn140.picsart.com/275831187013201.jpg?c256x256)
 
 # Contents
